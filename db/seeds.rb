@@ -29,3 +29,5 @@ movie.summary = "Lloyd and Harry are two men whose stupidity is really indescrib
 movie.year_released = "1994"
 movie.poster = "https://image.tmdb.org/t/p/w500/3PEAkZHa8ehfUkuKbzmQNRTTAAs.jpg"
 movie.save
+
+puts "Movies created!"
